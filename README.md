@@ -1,4 +1,4 @@
-# Cat-logo-de-Etiquetas
+# Catálogo de Etiquetas
 Referencia de Etiquetas Shields.io para Documentación
 
 ## Etiquetas de Shields.io
